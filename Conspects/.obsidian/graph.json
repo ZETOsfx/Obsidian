@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Семестр 6/Сети ЭВМ\"  ",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 4055039
       }
+    },
+    {
+      "query": "path:\"Семестр 7\" path:\"Семестр 7/Технологии ЦУП\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.50634765625,
-  "repelStrength": 11.1116536458333,
-  "linkStrength": 0.440022786458333,
-  "linkDistance": 30,
-  "scale": 1.4361409952871256,
+  "centerStrength": 0.447835286458333,
+  "repelStrength": 11.9059244791667,
+  "linkStrength": 1,
+  "linkDistance": 282,
+  "scale": 1.228382935176646,
   "close": true
 }
