@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "acc0222ac7129f1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "33982f8a3cb7e5fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8c281956197bccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Семестр 7/Технологии ЦУП/ЦУП - Лекция 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3e622418d13f8f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae09fe514fbcc23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f550e669fd7982a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4b6cf288f508c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be117a7a389cb8d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b481c72a0bc34a1f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 397.5
+  },
+  "right": {
+    "id": "027289ee4f5b1fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01460b12299f882",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d00fd8ae8bafed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Семестр 7/Технологии ЦУП/ЦУП - Лекция 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e48a10c84ad65dd2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Семестр 7/Технологии ЦУП/ЦУП - Лекция 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39e09da1f8bb560f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "411ec1db45edb2ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Семестр 7/Технологии ЦУП/ЦУП - Лекция 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "e8c281956197bccf",
+  "lastOpenFiles": [
+    "Семестр 7/Технологии ЦУП/ЦУП - Лекция 1.md",
+    "Семестр 7/Технологии ЦУП/ЦУП - Лекция 2.md",
+    "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 2.md",
+    "Семестр 7/Исходники/АС2.1.jpg",
+    "Семестр 7/Исходники/АС1.jpg",
+    "Семестр 7/Исходники/dHv4KPB5UrE.jpg",
+    "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 1.md",
+    "Семестр 7/Операционные системы/ОС - Лекция 1.md",
+    "Семестр 7/Организация и планирование производства/ОПП - Лекция 1.md",
+    "Семестр 7/Организация ЭВМ/О ЭВМ - Семинар 1.md",
+    "Семестр 7/УВБ ЭВМ/УВБ ЭВМ - Лекция 1.md",
+    "Семестр 7/Исходники/ОП4.jpeg",
+    "Семестр 7/Исходники/ОП3.jpeg",
+    "Семестр 7/Исходники/ОП2.jpeg",
+    "Семестр 7/Исходники/ОП1.jpeg",
+    "Семестр 7/Операционные системы/Без названия.md",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 4.md",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 6.md",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 1.md",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 3.md",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 2.md",
+    "Семестр 7/Операционные системы",
+    "Семестр 7/Исходники/basic ЭВМ.jpg",
+    "Семестр 7/Исходники/_r82IdwfjaM.jpg",
+    "Семестр 7/Исходники/Принцип Глушкова.jpg",
+    "Семестр 7/Организация ЭВМ",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 5.md",
+    "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 7.md",
+    "Семестр 7/Организация и планирование производства",
+    "Семестр 6/Исходники",
+    "Без названия.md",
+    "Без названия 2.md",
+    "Без названия 1.md",
+    "Семестр 7/УВБ ЭВМ",
+    "Семестр 7/Исходники",
+    "Семестр 7/untitled folder",
+    "Семестр 6/Сети ЭВМ",
+    "Семестр 6",
+    "Семестр 7/Архитектура сетей ЭВМ/Сети ЭВМ/С ЭВМ - Лекция 1.md",
+    "Семестр 7",
+    "Технологии ЦУП/Java/JDK, JVM, JRE.md",
+    "Технологии ЦУП/Java/Книги.md",
+    "Технологии ЦУП/Java/Лайфхаки IntellijIDEA.md",
+    "Технологии ЦУП/Java/Коллекции - ArrayList.md",
+    "Технологии ЦУП/Java/Статические классы.md",
+    "Технологии ЦУП/Java/Тупые ошибки.md"
+  ]
+}
