@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Семестр 6/Сети ЭВМ\"  ",
@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:\"Семестр 7/Организация ЭВМ\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.447835286458333,
-  "repelStrength": 11.9059244791667,
+  "nodeSizeMultiplier": 1.24684244791667,
+  "lineSizeMultiplier": 1.25342203776042,
+  "collapse-forces": true,
+  "centerStrength": 0.4805908203125,
+  "repelStrength": 13.8631184895833,
   "linkStrength": 1,
   "linkDistance": 282,
-  "scale": 1.228382935176646,
-  "close": true
+  "scale": 0.8769404843798122,
+  "close": false
 }
