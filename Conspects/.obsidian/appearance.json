@@ -1,4 +1,5 @@
 {
-  "accentColor": "",
-  "baseFontSize": 17
+  "accentColor": "#ffc675",
+  "baseFontSize": 17,
+  "cssTheme": "Tokyo Night"
 }

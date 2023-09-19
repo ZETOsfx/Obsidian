@@ -1,0 +1,36 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasSquarePollHorizontal",
+      "🦆",
+      "FasJava",
+      "IbStore",
+      "FasDatabase"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "Семестр 6/ОС": "FasBarsProgress",
+  "Семестр 6/Сети ЭВМ": "FasNetworkWired",
+  "Еще раньше/Теория автоматов": "IbCalculator",
+  "Семестр 7/Архитектура сетей ЭВМ": "FasNetworkWired",
+  "Семестр 7/Базы данных": "FasDatabase",
+  "Семестр 7/Операционные системы": "FasBarsProgress",
+  "Семестр 7/Организация и планирование производства": "IbStore",
+  "Семестр 7/Организация ЭВМ": "IbCalculator",
+  "Семестр 7/Технологии ЦУП": "FasJava",
+  "Семестр 7/УВБ ЭВМ": "🦆",
+  "Семестр 7/Экзамены.md": "FasSquarePollHorizontal"
+}
