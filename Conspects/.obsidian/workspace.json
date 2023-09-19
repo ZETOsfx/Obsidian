@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 7.md",
+                "file": "Семестр 6/ОС/ОС - Лекция 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Семестр 6/ОС/ОС - Лекция 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Семестр 6/ОС/ОС - Лекция 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Семестр 6/ОС/ОС - Лекция 6.md"
+              }
             }
           },
           {
@@ -170,19 +173,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5571cf6e603bcc1d",
+  "active": "e955ff4a47305b73",
   "lastOpenFiles": [
+    "README.md",
+    "Семестр 6/ОС/ОС - Лекция 6.md",
+    "Семестр 6/ОС/ОС - Лекция 3.md",
+    "Семестр 6/ОС/ОС - Лекция 1.md",
+    "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 2.md",
+    "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 1.md",
+    "Семестр 7/Базы данных/БД - Лекция 1.md",
     "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 7.md",
     "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 6.md",
     "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 5.md",
@@ -190,15 +200,10 @@
     "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 3.md",
     "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 2.md",
     "Семестр 6/Сети ЭВМ/С ЭВМ - Лекция 1.md",
-    "Семестр 6/ОС/ОС - Лекция 6.md",
     "Семестр 6/ОС/ОС - Лекция 5.md",
     "Семестр 6/ОС/ОС - Лекция 4.md",
-    "Семестр 6/ОС/ОС - Лекция 3.md",
     "Семестр 6/ОС/ОС - Лекция 2.md",
-    "Семестр 6/ОС/ОС - Лекция 1.md",
     "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 3.md",
-    "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 2.md",
-    "Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 1.md",
     "Семестр 6/--- Исходники ---/ОС6.5.jpeg",
     "Семестр 6/--- Исходники ---/ОС6.4.jpeg",
     "Семестр 6/--- Исходники ---/ОС6.3.jpeg",
@@ -215,8 +220,6 @@
     "Семестр 7/Технологии ЦУП/ЦУП - Лекция 1.md",
     "Семестр 7/Организация ЭВМ/О ЭВМ - Лекция 2.md",
     "Семестр 7/Организация ЭВМ/О ЭВМ - Семинар 2.md",
-    "Семестр 7/Организация ЭВМ/О ЭВМ - Семинар 1.md",
-    "Семестр 7/Организация ЭВМ/О ЭВМ - Лекция 1.md",
     "Styels",
     "Excalidraw",
     "Семестр 6/ОС/Untitled.canvas",
