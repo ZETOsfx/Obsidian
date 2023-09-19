@@ -1,7 +1,7 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -20,18 +20,53 @@
         "a": 1,
         "rgb": 4055039
       }
+    },
+    {
+      "query": "path:\"Семестр 7\" path:\"Семестр 7/Технологии ЦУП\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Семестр 7/Организация ЭВМ\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Семестр 7/Операционные системы\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Семестр 7/Организация и планирование производства\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7282386
+      }
+    },
+    {
+      "query": "path:\"Семестр 6/ОС\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.50634765625,
-  "repelStrength": 11.1116536458333,
-  "linkStrength": 0.440022786458333,
-  "linkDistance": 30,
-  "scale": 1.4361409952871256,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.24684244791667,
+  "lineSizeMultiplier": 1.25342203776042,
+  "collapse-forces": true,
+  "centerStrength": 0.347127278645833,
+  "repelStrength": 12.1988932291667,
+  "linkStrength": 0.702351888020833,
+  "linkDistance": 250,
+  "scale": 0.6712990612933069,
   "close": true
 }
