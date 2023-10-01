@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "e064a835f90f1b0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dd8b93f19c6eb8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bca4cc4a3c8fd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88d812e3d8983c85",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc8e0ec9f5c03c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc6864bc50fbb40a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f43f0bd3f419bc6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd188a0cb84dfeea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee709651a5835eb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cd07624417fcb5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad831ee81068dc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7bb36efc0303ea43",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce063b76cb0ca517",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9ca626388e86544e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3bca4cc4a3c8fd99",
+  "lastOpenFiles": [
+    "Conspects/Семестр 7/Операционные системы/ОС - Лекция 3.md",
+    "Conspects/Семестр 7/Операционные системы/ОС - Лекция 2.md",
+    "Conspects/Семестр 7/Операционные системы/ОС - Лекция 1.md",
+    "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+    "Conspects/Семестр 7/--- Исходники ---/ОС4-5.png",
+    "Conspects/Семестр 7/--- Исходники ---/Снимок экрана 2023-09-29 в 13.38.59.png",
+    "Conspects/Семестр 7/--- Исходники ---/ОС4-4.png",
+    "Conspects/Семестр 7/--- Исходники ---/Снимок экрана 2023-09-29 в 13.24.57.png",
+    "Conspects/Семестр 7/--- Исходники ---/Снимок экрана 2023-09-29 в 13.21.35.png",
+    "Conspects/Семестр 7/--- Исходники ---/ОС4-2.png",
+    "Conspects/Семестр 7/--- Исходники ---/Снимок экрана 2023-09-29 в 13.10.31.png",
+    "Conspects/Семестр 7/--- Исходники ---/ОС4-1.png",
+    "Conspects/Семестр 7/--- Исходники ---/ОС3-1.png",
+    "Conspects/Семестр 7/--- Исходники ---/Снимок экрана 2023-09-29 в 13.05.43.png",
+    "Conspects/Семестр 7/Организация и планирование производства/ОПП - Лекция 3.md",
+    "Conspects/Семестр 7/Организация ЭВМ/О ЭВМ - Лекция 2.md",
+    "Conspects/Семестр 7/Организация ЭВМ/О ЭВМ - Лекция 1.md",
+    "Conspects/Семестр 7/Организация ЭВМ/О ЭВМ - Семинар 3.md",
+    "Conspects/Еще раньше",
+    "Conspects/Screenshot 2023-09-28 at 09.17.38.jpg.md",
+    "Conspects/Семестр 7/Организация ЭВМ/О ЭВМ - Семинар 1.md",
+    "Conspects/Семестр 7/УВБ ЭВМ/УВБ ЭВМ - Лекция 2.md",
+    "Conspects/Семестр 7/Технологии ЦУП/ЦУП - Лекция 4.md",
+    "Conspects/Семестр 7/Организация и планирование производства/ОПП - Семинар 2.md",
+    "Conspects/Семестр 7/Организация и планирование производства/ОПП - Лекция 2.md",
+    "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 4.md",
+    "Conspects/Семестр 7/Организация ЭВМ/О ЭВМ - Семинар 2.md",
+    "Conspects/Семестр 7/Организация и планирование производства/ОПП - Лекция 1.md",
+    "Conspects/Семестр 7/Организация и планирование производства/ОПП - Семинар 1.md"
+  ]
+}
