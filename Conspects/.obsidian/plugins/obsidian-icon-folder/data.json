@@ -39,7 +39,7 @@
     "inheritanceIcon": "IbClipboardFull"
   },
   "Семестр 8/Защита информации": {
-    "iconName": "IbLocked",
+    "iconName": null,
     "inheritanceIcon": "IbLocked"
   },
   "Семестр 8/Администрирование сетей": {
