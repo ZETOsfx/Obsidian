@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasSquarePollHorizontal",
-      "🦆",
-      "FasJava",
-      "IbStore",
-      "FasDatabase"
+      "IbBatteryHorizontalMedium",
+      "IbRadio",
+      "IbLocked",
+      "IbChip",
+      "IbClipboardFull"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,22 @@
   "Семестр 7/Организация ЭВМ": "IbCalculator",
   "Семестр 7/Технологии ЦУП": "FasJava",
   "Семестр 7/УВБ ЭВМ": "🦆",
-  "Семестр 7/Экзамены.md": "FasSquarePollHorizontal"
+  "Семестр 7/Экзамены.md": "FasSquarePollHorizontal",
+  "Семестр 8/Экзамены.md": "IbClipboardFull",
+  "Семестр 8/Основы робототехники": {
+    "iconName": "IbChip",
+    "inheritanceIcon": "IbClipboardFull"
+  },
+  "Семестр 8/Защита информации": {
+    "iconName": null,
+    "inheritanceIcon": "IbLocked"
+  },
+  "Семестр 8/Администрирование сетей": {
+    "iconName": "IbRadio",
+    "inheritanceIcon": "IbRadio"
+  },
+  "Семестр 8/Периферийный устройства ЭВМ": {
+    "iconName": "IbBatteryHorizontalMedium",
+    "inheritanceIcon": "IbBatteryHorizontalMedium"
+  }
 }
