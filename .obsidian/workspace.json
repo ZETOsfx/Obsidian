@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+                "file": "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+                "file": "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
+                "file": "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md"
+                "file": "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 3.md"
               }
             }
           }
@@ -138,20 +138,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "3bca4cc4a3c8fd99",
   "lastOpenFiles": [
+    "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 2.md",
+    "Conspects/Семестр 7/Архитектура сетей ЭВМ/АС ЭВМ - Лекция 1.md",
+    "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
     "Conspects/Семестр 7/Операционные системы/ОС - Лекция 3.md",
     "Conspects/Семестр 7/Операционные системы/ОС - Лекция 2.md",
     "Conspects/Семестр 7/Операционные системы/ОС - Лекция 1.md",
-    "Conspects/Семестр 7/Операционные системы/ОС - Лекция 4.md",
     "Conspects/Семестр 7/--- Исходники ---/ОС4-5.png",
     "Conspects/Семестр 7/--- Исходники ---/Снимок экрана 2023-09-29 в 13.38.59.png",
     "Conspects/Семестр 7/--- Исходники ---/ОС4-4.png",
